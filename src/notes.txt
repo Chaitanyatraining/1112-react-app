@@ -1,0 +1,11 @@
+- folder Structure
+- Components and types of Components
+- virtual DOM
+    - diffing alogorithm
+    - Reconsiliation
+- JSX
+- Stylings
+- Props
+- lists and keys
+- state
+- lifeCycle Methods 
